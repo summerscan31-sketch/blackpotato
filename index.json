@@ -9,20 +9,20 @@
   "extensionList": {
     "extensions": [
       {
-        "name": "BanglaManga (English titles)",
+        "name": "BanglaManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.banglamanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/summerscan31-sketch/blackpotato/main/tachiyomi-en.banglamanga-v1.6.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/summerscan31-sketch/blackpotato/main/tachiyomi-en.banglamanga-v1.6.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/summerscan31-sketch/blackpotato/main/banglamanga.png"
         },
         "extensionLib": "1.6",
-        "versionCode": 106001,
-        "versionName": "1.6.1",
+        "versionCode": 106002,
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": 662857714798879802,
-            "name": "BanglaManga (English titles)",
+            "name": "BanglaManga",
             "language": "en",
             "homeUrl": "https://www.banglamanga.com",
             "mirrorUrls": [],
