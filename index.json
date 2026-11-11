@@ -1,0 +1,36 @@
+{
+  "name": "blackpotato",
+  "badgeLabel": "BGM",
+  "signingKey": "a84e973ef0c9b0513036808d60d9475be03805cf8faf4e4c5ac5522d88d4d38a",
+  "contact": {
+    "website": "https://github.com/summerscan31-sketch/blackpotato",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "BanglaManga (English titles)",
+        "packageName": "eu.kanade.tachiyomi.extension.en.banglamanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/summerscan31-sketch/blackpotato/main/tachiyomi-en.banglamanga-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/summerscan31-sketch/blackpotato/main/banglamanga.png"
+        },
+        "extensionLib": "1.6",
+        "versionCode": 106001,
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": 662857714798879802,
+            "name": "BanglaManga (English titles)",
+            "language": "en",
+            "homeUrl": "https://www.banglamanga.com",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
+      }
+    ]
+  },
+  "extensionListUrl": null
+}
